@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeSpec" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-02-18T12:28:10" hostname="LS-PC" time="0.044">
+  <properties/>
+  <testcase name="givenLastTurnWasXWhenNextPlayerThenO" classname="TicTacToeSpec" time="0.0"/>
+  <testcase name="whenInstantiatedThenSetCollection" classname="TicTacToeSpec" time="0.0"/>
+  <testcase name="whenYOutsideBoardThenRuntimeException" classname="TicTacToeSpec" time="0.011"/>
+  <testcase name="whenPlayAndTopBottomDiagonalLineThenWinner" classname="TicTacToeSpec" time="0.002"/>
+  <testcase name="whenPlayAndWholeHorizontalLineThenWinner" classname="TicTacToeSpec" time="0.001"/>
+  <testcase name="givenFirstTurnWhenNextPlayerThenX" classname="TicTacToeSpec" time="0.0"/>
+  <testcase name="whenXOutsideBoardThenRuntimeException" classname="TicTacToeSpec" time="0.0"/>
+  <testcase name="whenPlayAndBottomTopDiagonalLineThenWinner" classname="TicTacToeSpec" time="0.001"/>
+  <testcase name="whenOccupiedThenRuntimeException" classname="TicTacToeSpec" time="0.0"/>
+  <testcase name="whenAllBoxesAreFilledThenDraw" classname="TicTacToeSpec" time="0.001"/>
+  <testcase name="whenPlayAndWholeVerticalLineThenWinner" classname="TicTacToeSpec" time="0.001"/>
+  <testcase name="whenPlayThenNoWinner" classname="TicTacToeSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

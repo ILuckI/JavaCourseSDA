@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Mongo.TicTacToeCollectionSpec" tests="8" skipped="0" failures="0" errors="0" timestamp="2018-02-18T12:28:08" hostname="LS-PC" time="1.782">
+  <properties/>
+  <testcase name="givenExceptionWhenDropThenReturnFalse" classname="Mongo.TicTacToeCollectionSpec" time="1.591"/>
+  <testcase name="whenSaveMoveThenInvokeMongoCollectionSave" classname="Mongo.TicTacToeCollectionSpec" time="0.021"/>
+  <testcase name="whenDropThenInvokeMongoCollectionDrop" classname="Mongo.TicTacToeCollectionSpec" time="0.01"/>
+  <testcase name="givenExceptionWhenSaveMoveThenReturnFalse" classname="Mongo.TicTacToeCollectionSpec" time="0.01"/>
+  <testcase name="whenInstantiatedThenMongoHasDbNameTicTacToe" classname="Mongo.TicTacToeCollectionSpec" time="0.005"/>
+  <testcase name="whenDropThenReturnTrue" classname="Mongo.TicTacToeCollectionSpec" time="0.01"/>
+  <testcase name="whenInstantiatedThenMongoCollectionHasNameGame" classname="Mongo.TicTacToeCollectionSpec" time="0.004"/>
+  <testcase name="whenSaveMoveThenReturnTrue" classname="Mongo.TicTacToeCollectionSpec" time="0.114"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
