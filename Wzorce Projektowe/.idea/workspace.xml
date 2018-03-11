@@ -11,68 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Ambulance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Ambulance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OperatorAdam.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/OperatorAdam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Operator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Operator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Damo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Damo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AmulanceVehicle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/AmulanceVehicle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
-              <folding>
-                <element signature="e#375#376#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -86,57 +30,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/LatanieInterface.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/LatanieInterface.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/LatamBoMamSkrzydla.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/NieLatam.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/SposobyKwakania.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/KwakanieInterface.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/Piszcz.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/Kwacze.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/NieKwacze.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/DzikaKaczka.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/GumowaKaczka.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/PlaskonosKaczka.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/WabikKaczka.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/LotZNapedemRakietowym.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Kaczka.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/KaczkaModel.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/WabikKaczka.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/SortowaniePrzezZliczanie.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/SortowanieBabelkowe.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/Zliczenie.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/ObliczPodatek.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/SortowanieInterface.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/Babelkowe.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Czech.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Niemiec.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Polak.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/USA.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/Sortowanie.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Calculate.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Podmiot.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Obserwator.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/WyswietlElement.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/WarunkiBiezace.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/DanePogodowe.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Demo.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Wyswietlacze/WarunkiBiezace.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/Podmiot.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/DanePogodowe.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/WyswietlElement.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/Wyswietlacze/WarunkiBiezace.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/ThirdAmbulance.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/SecondAmbulance.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/WyswietlElement.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Ambulance.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/FirstAmbulance.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/OperatorAdam.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/AmulanceVehicle.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Operator.java" />
-        <option value="$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Damo.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecSingleton/SingletonLeniwy/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecSingleton/SingletonLeniwy/demo.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecSingleton/SingletonWatkowy1/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecSingleton/SingletonWatkowy2/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecSingleton/SingletonWatkowy3/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/Kaczka.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/DzikaKaczka.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/Indyk.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/DzikiIndyk.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/IndykAdapter.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/Demo.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/AnalogSignal.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/DigitalSignal.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/RadioFm.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/RadioDigital.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/Demo.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/RadioAdapter.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Wzmacniacz.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Ekran.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Projektor.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Fasada.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/cloth.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Caloroczna/Skarpety.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Caloroczna/Majtki.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/zima/CzapkaISzalik.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/zima/BluzaIKurtka.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/wiosna/Trampki.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/zima/KalesonyIDziny.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/wiosna/SpodnieDresowe.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/wiosna/BluzaZKapturem.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/jesien/ButyJesienne.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/jesien/LekkaKurtka.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/jesien/SpodnieDziny.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/lato/Adidasy.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/lato/Koszulka.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/lato/KrotkieSpodenki.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/demo.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Cloth.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Fasada.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Defens.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Attack.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Backpack.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Name.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Items.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/DarkRanger.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Boots.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Ring.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Armor.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Shild.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Sword.java" />
+        <option value="$PROJECT_DIR$/src/WzorzecDekorator/Rpg/demo.java" />
       </list>
     </option>
   </component>
@@ -161,7 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,42 +114,11 @@
               <item name="Wzorce Projektowe" type="b2602c69:ProjectViewProjectNode" />
               <item name="Wzorce Projektowe" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Wzorce Projektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wzorce Projektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wzorce Projektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wzorce Projektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WzorzecObserwator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wzorce Projektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wzorce Projektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WzorzecObserwator" type="462c0819:PsiDirectoryNode" />
-              <item name="Ambulance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wzorce Projektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wzorce Projektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WzorzecObserwator" type="462c0819:PsiDirectoryNode" />
-              <item name="StacjaPogodowa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Wzorce Projektowe" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wzorce Projektowe" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="WzorzecObserwatorJava" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -232,15 +145,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Damo">
-    <configuration name="Damo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.demo (1)">
+    <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="WzorzecObserwator.Ambulance.*" />
+          <option name="PATTERN" value="WzorzecDekorator.Kawiarnia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="WzorzecObserwator.Ambulance.Damo" />
+      <option name="MAIN_CLASS_NAME" value="WzorzecDekorator.Kawiarnia.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -252,14 +165,14 @@
       <module name="Wzorce Projektowe" />
       <envs />
     </configuration>
-    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="WzorzecObserwatorJava.StacjaPogodowa.*" />
+          <option name="PATTERN" value="WzorzecAdapter.KaczoIndyk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="WzorzecObserwatorJava.StacjaPogodowa.Demo" />
+      <option name="MAIN_CLASS_NAME" value="WzorzecAdapter.KaczoIndyk.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -274,11 +187,11 @@
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="WzorzecObserwator.StacjaPogodowa.*" />
+          <option name="PATTERN" value="WzorzecAdapter.RadioAdapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="WzorzecObserwator.StacjaPogodowa.Demo" />
+      <option name="MAIN_CLASS_NAME" value="WzorzecAdapter.RadioAdapter.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -289,22 +202,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="Wzorce Projektowe" />
       <envs />
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Wzorce Projektowe" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -321,23 +218,66 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Demo (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Damo" />
+    <configuration name="demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WzorzecFasada.Garderoba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WzorzecFasada.Garderoba.demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Wzorce Projektowe" />
+      <envs />
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="WzorzecSingleton.SingletonLeniwy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="WzorzecSingleton.SingletonLeniwy.demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Wzorce Projektowe" />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Demo (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.demo" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="4" class="java.lang.String" itemvalue="Application.demo (1)" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.Damo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Demo (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.demo (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Demo (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.demo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Demo (2)" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -354,7 +294,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5030257" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -362,18 +301,19 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25718608" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935154" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -386,470 +326,372 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/LatamBoMamSkrzydla.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="50" lean-forward="false" selection-start-line="6" selection-start-column="50" selection-end-line="6" selection-end-column="50" />
-          <folding>
-            <element signature="e#141#142#0" expanded="false" />
-            <element signature="e#201#202#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/LatanieInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/SposobyKwakania.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/Kwacze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
-          <folding>
-            <element signature="e#132#133#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/NieKwacze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="41" lean-forward="false" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
-          <folding>
-            <element signature="e#135#136#0" expanded="false" />
-            <element signature="e#186#187#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/Piszcz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-          <folding>
-            <element signature="e#132#133#0" expanded="false" />
-            <element signature="e#178#179#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyKwakania/KwakanieInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/NieLatam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-          <folding>
-            <element signature="e#130#131#0" expanded="false" />
-            <element signature="e#177#178#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/SposobyLatania/LotZNapedemRakietowym.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="55" lean-forward="false" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
-          <folding>
-            <element signature="e#143#144#0" expanded="false" />
-            <element signature="e#208#209#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/DzikaKaczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#353#354#0" expanded="false" />
-            <element signature="e#415#416#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/GumowaKaczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/PlaskonosKaczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/SortowanieBabelkowe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="4" selection-start-column="8" selection-end-line="20" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/SortowaniePrzezZliczanie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="26" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/WabikKaczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/KaczkaModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/SortowanieInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/Babelkowe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Kaczka/Kaczka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/Zliczenie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/CalculateInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Calculate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/Sortowanie/Sortowanie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Niemiec.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/KaczoIndyk/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Polak.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1153">
+          <caret line="907" column="24" lean-forward="false" selection-start-line="907" selection-start-column="24" selection-end-line="907" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/DigitalSignal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#187#188#0" expanded="false" />
-          </folding>
+          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/Czech.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecStrategia/ObliczPodatek/USA.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/AnalogSignal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/WyswietlElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Obserwator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/Obserwator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/Podmiot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Observable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2018">
-          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/DanePogodowe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/WyswietlElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwatorJava/StacjaPogodowa/Wyswietlacze/WarunkiBiezace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Podmiot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/DanePogodowe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/ThirdAmbulance.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/RadioFm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="58" />
-          <folding />
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/SecondAmbulance.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_151/src.zip!/java/util/stream/SpinedBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding />
+        <state relative-caret-position="122">
+          <caret line="977" column="0" lean-forward="false" selection-start-line="977" selection-start-column="0" selection-end-line="977" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/StacjaPogodowa/Wyswietlacze/WarunkiBiezace.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/RadioDigital.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/RadioAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecAdapter/RadioAdapter/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/WyswietlElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Ambulance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/AmulanceVehicle.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Wzmacniacz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="61" />
+          <caret line="15" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Projektor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Shorts.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Ekran.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="27" lean-forward="false" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Caloroczna/Skarpety.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Caloroczna/Majtki.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/KinoDomowe/Fasada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/zima/BluzaIKurtka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/zima/CzapkaISzalik.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/zima/KalesonyIDziny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/jesien/ButyJesienne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/jesien/LekkaKurtka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/jesien/SpodnieDziny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/lato/Adidasy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/lato/Koszulka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/wiosna/SpodnieDresowe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/wiosna/Trampki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/lato/KrotkieSpodenki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/wiosna/BluzaZKapturem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Fasada.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="55" lean-forward="true" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/Cloth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecFasada/Garderoba/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Backpack.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Name.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Defens.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/Dodatki/SkladnikiDekorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/Napoj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/SkladnikiBazowe/Bezkofeinowa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/Dodatki/BitaSmietana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Character/Attack.java" />
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/Dodatki/Mleko.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Boots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
           <folding>
-            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Ring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+            <element signature="e#415#416#0" expanded="true" />
             <element signature="e#461#462#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/OperatorAdam.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/SkladnikiBazowe/StarCafeSecial.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/DarkRanger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="5" lean-forward="false" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Operator.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/Dodatki/MlekoSojowe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Armor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#455#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Shild.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Items.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WzorzecObserwator/Ambulance/Damo.java">
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/Items/Sword.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Rpg/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WzorzecDekorator/Kawiarnia/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
