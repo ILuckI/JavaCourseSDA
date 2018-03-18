@@ -3,7 +3,6 @@ package AddressBook.viewController;
 import AddressBook.Main;
 import AddressBook.helpers.DateHelper;
 import AddressBook.model.Person;
-import javafx.beans.Observable;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 
@@ -42,6 +41,47 @@ public class PersonOverviewController {
                 (observable, oldValue, newValue) -> showPersonalDetails(newValue));
     }
 
+    @FXML
+    private void handleRemovePerson() {
+        int index = personTable.getSelectionModel().getSelectedIndex();
+        if (index >= 0) {
+            personTable.getItems().remove(index);
+        } else {
+            Alert alert = new Alert(Alert.AlertType.WARNING);
+            alert.setTitle("Brak zaznaczenia");
+            alert.setHeaderText("Nie zaznaczono elementu");
+            alert.setContentText("Prosze wskazac element do usuniecia!");
+            alert.showAndWait();
+        }
+
+    }
+
+    @FXML
+    private void handleAddButton() {
+        Person tempPerson = new Person("", "");
+        boolean buttonClick = mainApp.showPersonEditDialog(tempPerson);
+        if (buttonClick) {
+            mainApp.getPersonData().add(tempPerson);
+        }
+    }
+
+    @FXML
+    private void handleEdit() {
+        Person person = personTable.getSelectionModel().getSelectedItem();
+        if (person != null) {
+            boolean buttonClick = mainApp.showPersonEditDialog(person);
+            if (buttonClick) {
+                showPersonalDetails(person);
+            }
+        } else {
+            Alert alert = new Alert(Alert.AlertType.WARNING);
+            alert.setTitle("Brak zaznaczenia");
+            alert.setHeaderText("Nie zaznaczono elementu");
+            alert.setContentText("Prosze wskazac element do usuniecia!");
+            alert.showAndWait();
+        }
+    }
+
     public void setMainApp(Main mainApp) {
         this.mainApp = mainApp;
         personTable.setItems(mainApp.getPersonData());
@@ -64,4 +104,5 @@ public class PersonOverviewController {
             birthdayLabel.setText("");
         }
     }
+
 }

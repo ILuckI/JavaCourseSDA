@@ -2,15 +2,19 @@ package AddressBook;
 
 import AddressBook.model.Person;
 
+import AddressBook.viewController.PersonEditController;
 import AddressBook.viewController.PersonOverviewController;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
+import javafx.stage.Modality;
 import javafx.stage.Stage;
+
 import java.io.IOException;
 
 public class Main extends Application {
@@ -19,7 +23,7 @@ public class Main extends Application {
     private BorderPane root;
     private ObservableList<Person> personalData = FXCollections.observableArrayList();
 
-    public Main(){
+    public Main() {
         personalData.add(new Person("Jan", "Kowalski"));
         personalData.add(new Person("Eryk", "Zielinski"));
         personalData.add(new Person("Lukasz", "Mily"));
@@ -34,6 +38,7 @@ public class Main extends Application {
     public void start(Stage primaryStage) throws Exception {
         this.primaryStage = primaryStage;
         this.primaryStage.setTitle("Address Book");
+        this.primaryStage.getIcons().add(new Image("./AddressBook/Resources/icon.png"));
         initRootLayout();
         showPersonOverview();
 
@@ -63,6 +68,33 @@ public class Main extends Application {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    public boolean showPersonEditDialog(Person person) {
+        try {
+            FXMLLoader loader = new FXMLLoader();
+            loader.setLocation(Main.class.getResource("viewController/PersonEditDialog.fxml"));
+            AnchorPane page = loader.load();
+
+            Stage dialogStage = new Stage();
+            dialogStage.setTitle("Edycja danych");
+            dialogStage.initModality(Modality.WINDOW_MODAL);
+            dialogStage.initOwner(primaryStage);
+
+            Scene scene = new Scene(page);
+            dialogStage.setScene(scene);
+
+            PersonEditController controller = loader.getController();
+            controller.setDialogStage(dialogStage);
+            controller.setPerson(person);
+
+            dialogStage.showAndWait();
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            return false;
+        }
+       return true;
     }
 
     public static void main(String[] args) {

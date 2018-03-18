@@ -12,7 +12,7 @@
 <?import javafx.scene.layout.RowConstraints?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane minHeight="300.0" minWidth="600.0" prefHeight="300.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="AddressBook.viewController.PersonOverviewController">
+<AnchorPane minHeight="300.0" minWidth="600.0" prefHeight="300.0" prefWidth="600.0" stylesheets="@../Resources/DarkTheme.css" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" fx:controller="AddressBook.viewController.PersonOverviewController">
    <children>
       <SplitPane dividerPositions="0.4197324414715719" prefHeight="300.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
         <items>
@@ -29,14 +29,14 @@
                   </TableView>
                </children>
             </AnchorPane>
-          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" styleClass="background">
                <children>
-                  <Label text="Szczegóły" AnchorPane.leftAnchor="15.0" AnchorPane.topAnchor="5.0">
+                  <Label styleClass="label-header" text="Szczegóły" AnchorPane.leftAnchor="5.0" AnchorPane.topAnchor="2.0">
                      <font>
                         <Font size="14.0" />
                      </font>
                   </Label>
-                  <GridPane AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="30.0">
+                  <GridPane layoutX="10.0" layoutY="60.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="60.0">
                     <columnConstraints>
                       <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
                       <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
@@ -90,9 +90,9 @@
                   </GridPane>
                   <ButtonBar layoutX="130.0" layoutY="244.0" prefHeight="40.0" prefWidth="200.0" AnchorPane.bottomAnchor="5.0" AnchorPane.rightAnchor="5.0">
                     <buttons>
-                      <Button mnemonicParsing="false" text="Dodaj" />
-                        <Button mnemonicParsing="false" text="Edytuj" />
-                        <Button mnemonicParsing="false" text="Usuń" />
+                      <Button mnemonicParsing="false" onAction="#handleAddButton" text="Dodaj" />
+                        <Button mnemonicParsing="false" onAction="#handleEdit" text="Edytuj" />
+                        <Button mnemonicParsing="false" onAction="#handleRemovePerson" text="Usuń" />
                     </buttons>
                   </ButtonBar>
                </children>
