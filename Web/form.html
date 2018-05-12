@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+	<meta charset="UTF-8">
+	<title>Ac Milan: Fun page</title>
+	<link href="./style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<h2>Przykład formularza 2:</h2>
+<form action="./forms.html" method="post" enctype="multipart/form-data">
+    <div>
+        Lubisz pizze? <input type="checkbox" checked name="pizza">
+    </div>
+    <hr>
+    <div>
+        Jakie lubisz samochody?<br/>
+        Szybkie <input type="radio" name="car" value="szybkie" checked>
+        Wolne <input type="radio" name="car" value="wolne">
+        Czerwone <input type="radio" name="car" value="czerwone">
+    </div>
+    <input type="hidden" name="id" value="111">
+    <hr>
+	    <input type="hidden" name="id" value="10000">
+    <div>
+        <input name="document" type="file" accept="text/css" multiple>
+    </div>
+    <hr>
+    <div>
+        Jaki lubisz film?
+        <select name="film" title="choose film">
+            <option value="horror">Sci-Fi</option>
+            <option value="fantasy">Fantastyczne</option>
+            <option value="history">Historyczne</option>
+            <option value="comedy">Komedie</option>
+        </select>
+    </div>
+    <hr>
+    <div>
+        <textarea name="description" cols="80" rows="5"></textarea>
+    </div>
+    <hr>
+    <input type="submit" value="Submit">
+</form>
+</body>

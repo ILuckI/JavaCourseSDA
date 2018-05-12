@@ -1,0 +1,121 @@
+body{
+	background-image: url("bg.jpg");
+	background-position: center;
+	background-color: black;
+	color: silver;
+}
+
+h1{
+	color: red;
+	text-align: center;
+	font-size: 3em;
+	text-shadow:5px 1px 15px silver;
+}
+
+#banner{
+	text-align: center;
+	
+}
+nav{
+	position:relative	;
+	margin-left:22%;
+	background-color: black;
+}
+.div_nav {
+
+	display: block-inline;
+	float: left;
+	padding: 5%;
+	margin-left: auto;
+	
+}
+
+.div_nav a{
+	font-size: 120%;
+	color: silver;
+	text-decoration: none;	
+
+}
+
+.div_nav a:hover{
+	color: red;
+	text-decoration: bold;
+	text-shadow:5px 1px 15px silver;
+}
+
+.art{
+	text-align: center;
+}
+
+.first3{
+	border: 10px;
+	margin:1%;
+	float:left;
+	width: 30%;
+	box-shadow: 5px 10px black;
+}
+
+
+.clear{
+	clear:both;
+}
+
+#stat{
+	font-size: 150%;
+	text-align: center;
+}
+#win{
+	float:left;
+	margin-left: auto;
+	border-radius: 25px;
+    background-image: url("win.jpg");
+    background-position: center;
+    width: 100%;
+
+}
+footer{
+	text-align: center;
+}
+.divs {
+    width: 300px;
+    height: 50px;
+	text-align: center;
+	font-size: 150%;
+    font-weight: bold;
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+    animation: mymove 5s infinite;
+}
+
+
+
+/* Safari 4.0 - 8.0 */
+#div1 {-webkit-animation-timing-function: linear;}
+#div2 {-webkit-animation-timing-function: ease;}
+#div3 {-webkit-animation-timing-function: ease-in;}
+#div4 {-webkit-animation-timing-function: ease-out;}
+#div5 {-webkit-animation-timing-function: ease-in-out;}
+
+/* Standard syntax */
+#div1 {animation-timing-function: linear;}
+#div2 {animation-timing-function: ease;}
+#div3 {animation-timing-function: ease-in;}
+#div4 {animation-timing-function: ease-out;}
+#div5 {
+
+	color: red;
+	animation-timing-function: ease-in-out;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {left: 40%;}
+}
+
+/* Standard syntax */
+@keyframes mymove {
+    from {left: 0px;}
+    to {left: 40%;}
+}
+
